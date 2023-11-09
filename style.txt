@@ -1,0 +1,18 @@
+<style>
+	 @import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Roboto:ital,wght@0,100;0,700;0,900;1,300;1,700&display=swap');
+	 
+	 h1, h2, h3 {
+	    background-color: blue;
+	    font-family: 'Agbalumo', sans-serif;
+	 }
+	 img{
+	       width: 200px;
+		   height: 300px;
+		   margin-left: 100px;
+	 }
+	 table, th, td {
+	   border: 2px solid black;
+	 }
+	 .red-text {color:red;}
+	 #rounded-img {border-radius: 200ps}
+	 </style>
